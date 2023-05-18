@@ -1,0 +1,14 @@
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\bin\Debug\netcoreapp3.1\AbstractionEx01.exe
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\bin\Debug\netcoreapp3.1\AbstractionEx01.deps.json
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\bin\Debug\netcoreapp3.1\AbstractionEx01.runtimeconfig.json
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\bin\Debug\netcoreapp3.1\AbstractionEx01.runtimeconfig.dev.json
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\bin\Debug\netcoreapp3.1\AbstractionEx01.dll
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\bin\Debug\netcoreapp3.1\AbstractionEx01.pdb
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.csproj.AssemblyReference.cache
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.AssemblyInfoInputs.cache
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.AssemblyInfo.cs
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.csproj.CoreCompileInputs.cache
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.dll
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.pdb
+F:\Ivailo 11A\02.OOP\AbstractionEx01\AbstractionEx01\obj\Debug\netcoreapp3.1\AbstractionEx01.genruntimeconfig.cache
