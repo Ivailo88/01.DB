@@ -1,0 +1,13 @@
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\bin\Debug\netcoreapp3.1\EX06.exe
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\bin\Debug\netcoreapp3.1\EX06.deps.json
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\bin\Debug\netcoreapp3.1\EX06.runtimeconfig.json
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\bin\Debug\netcoreapp3.1\EX06.runtimeconfig.dev.json
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\bin\Debug\netcoreapp3.1\EX06.dll
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\bin\Debug\netcoreapp3.1\EX06.pdb
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\obj\Debug\netcoreapp3.1\EX06.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\obj\Debug\netcoreapp3.1\EX06.AssemblyInfoInputs.cache
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\obj\Debug\netcoreapp3.1\EX06.AssemblyInfo.cs
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\obj\Debug\netcoreapp3.1\EX06.csproj.CoreCompileInputs.cache
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\obj\Debug\netcoreapp3.1\EX06.dll
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\obj\Debug\netcoreapp3.1\EX06.pdb
+F:\Ivailo 11A\05.Multi_threading\EX06\EX06\obj\Debug\netcoreapp3.1\EX06.genruntimeconfig.cache
